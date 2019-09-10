@@ -1,1 +1,7 @@
-@media screen and (min-width:1280px) {}
+/* 修改container最大寛度為1280px */
+
+@media screen and (min-width:1280px) {
+    .container {
+        width: 1280px;
+    }
+}
